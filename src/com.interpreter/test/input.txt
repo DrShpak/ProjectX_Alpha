@@ -1,0 +1,68 @@
+/*def factorial(n) {
+    if (n == 1) return 1
+    return n * factorial(n - 1)
+}*/
+
+//print("factorial(5) = ", factorial(5), "\n\n")
+//print ("max(", a, ", ", b, ") = ", max(a, b))
+//print("Введите число: ")
+//n = input()
+//print("\n ваше число = ", n, "\n\n")
+
+//max = max(10, 20)
+//print(max)
+
+arr1 = [1, "text", 10, [], ["text", [90, [7 + 6, [50]]]]]
+//arr = newArray(10, 20, 30)
+//arr[0] = arr[0] + 5
+//print(arr[0])
+//i2 = 10
+/*arr = [1, 2, 3, 10, 120, -6, -8]
+i = arr
+print(i)
+arr[0] = 0
+print("\n" + i)
+print("arr[1] = ", arr[1], "\n\n")*/
+
+def max(arr) {
+    max = INT_MIN_VALUE
+    for i = 0; i < size(arr); i = i + 1 {
+        //print("i = ", i, "\n")
+        if arr[i] > max
+            max = arr[i]
+    }
+    return max
+}
+
+/*print("max = ", max(arr) + "\n")
+def rec(someDef) {
+    return someDef + 10
+}*/
+
+/*for i = 0; i < size(arr); i = i + 1 {
+print(arr[i] + " ")
+}*/
+
+print("i = " + i +"\n")
+
+//print("max = ", rec(max(arr)))
+//print("\n size = ", size(arr))
+
+/*print(arr + "\n")
+arr[0] = arr[0] + 1000 + arr[2]
+print(arr + "\n")
+arr4 = arr[4 ]
+print(arr4 + "\n")
+arr41 = arr4[1 ]
+print(arr41 + "\n")*/
+
+/*
+  for i = 0; i < 5; i = i + 1 {
+    ;;
+  }
+
+  foreach a in arr {
+
+  }
+
+*/
